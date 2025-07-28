@@ -1,6 +1,6 @@
 # UNICEF Consultancy Assessment – Population-Weighted Maternal Health Coverage
 
- **Position(s) Applied For**:  
+ **Position Applied For**:  
 - Learning and Skills Data Analyst Consultant – Req. #581598
 
 ## 📂 Repository Structure

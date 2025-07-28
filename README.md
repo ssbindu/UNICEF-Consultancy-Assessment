@@ -45,21 +45,6 @@ The goal is to compare average coverage between **on-track** and **off-track** c
      - `Achieved` or `On-track` → On-track
      - `Acceleration needed` → Off-track
 
-
-## Scripts and Automation
-
-### `user_profile.sh`
-This shell script sets up a reproducible environment. Example content:
-```bash
-#!/bin/bash
-# user_profile.sh
-# Ensure all required packages are installed
-pip install -r requirements.txt
-```
-## run_project.sh
-
-Automates the end-to-end workflow by executing the analysis notebook and saving the results in the `03_outputs/` folder.
-
 ## Methodology
 
 1. **Preprocessing**
